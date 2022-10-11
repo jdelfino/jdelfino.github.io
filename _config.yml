@@ -3,6 +3,8 @@ email: jdelfino@bcdschool.org
 url: "https://jdelfino.github.io"
 github_username:  jdelfino
 theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+
 
 plugins:
   - jemoji
