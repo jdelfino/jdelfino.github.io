@@ -6,5 +6,5 @@ description: "CT Challenges Home Page"
 permalink: /
 ---
 
-# Season 1 is Open!
+# [Season 1](/docs/season1/index) is Open!
 
