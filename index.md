@@ -8,7 +8,7 @@ permalink: /
 
 # Computational Thinking Challenges
 
-No prior coding or tech experience needed!
+No prior coding knowledge needed!
 
 Start with the easier challenges, and work your way up.
 
