@@ -1,11 +1,9 @@
 ---
-layout: default
+layout: page
 title: Scratch resources
-parent: Resources
-nav_order: 2
+permalink: /scratch-resources
+comments: false
 ---
-
-# Scratch resources
 
 Scratch is a coding tool that lets you build programs, tell stories, make games, and more. Programs are constructed by combining different blocks. The tool has many built-in tutorials, and the best way to learn is to try it out!
 
@@ -19,7 +17,7 @@ The [Scratch wiki](https://en.scratch-wiki.info/wiki/Scratch_Wiki:Table_of_Conte
 
 There are several built-in tutorials:
 
-<img src="/assets/scratch_tutorial.png" width="200px" alt="Scratch tutorial button">
+<img src="/assets/images/scratch_tutorial.png" width="200px" alt="Scratch tutorial button">
 
 There are also [MANY user-created tutorials](https://scratch.mit.edu/studios/1817151/)
 

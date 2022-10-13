@@ -1,22 +1,7 @@
----
-layout: default
-title: 'Challenge 2: Mad Libs'
-parent: 'Season 1: Scratch'
-nav_order: 1
----
+<span class="small-text">Example Mad Lib credit: [Mad Libs](https://www.madlibs.com/printables/)</span>
 
-# Challenge 2: **Mad Libs**
-
-{: .fs-4 .fw-700}
-Difficulty: :exclamation::exclamation::grey_exclamation:
-
-## Instructions
 Create a "Mad Libs" program in Scratch. Here's an example of a Mad Lib:
 
-![Mad Lib example](/assets/mad_lib.png)
-
-{: .fs-2 }
-Example Mad Lib credit: [Mad Libs](https://www.madlibs.com/printables/)
 
 Your program should ask for at least 5 words or phrases from the user, then tell a story with those phrases filled in.
 
@@ -40,6 +25,5 @@ Use the 'Make variable' button under the 'Variables' section to make a variable 
 </details>
 
 {% include scratch_submission.md %}
-
 {% include scratch_resources.md %}
 
