@@ -1,35 +1,35 @@
 ---
-layout: page
-title: Mediumish Template for Jekyll
+layout: default
+title: Welcome to Computational Thinking Challenges!
 permalink: /about
-comments: true
+comments: false
 ---
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+<section class="layout-page">
+<div class="article-post">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<div class="row">
+	<div class="col-8">
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+    <div class="section-title">
+        <h2><span>{{ page.title }}</span></h2>
+    </div>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+This site hosts a collection of fun Computational Thinking Challenges. Compete for fame, glory, or cookies!
+<br><br>
 
-<h4>Questions or bug reports?</h4>
+The challenges are arranged into seasons. Season 1 challenges involve <a href="scratch.mit.edu" alt="link to MIT Scratch website">Scratch</a>, a block-based programming tool. Future seasons might involve other coding languages, or non-coding puzzles.
+<br><br>
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+Challenges each have a difficulty rating. Each challenge includes hints and links to resources so that anyone can complete them, although people with more prior experience might be able to complete harder challenges more quickly.
+<br><br>
 
-</div>
-
-<div class="col-md-4">
-
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+Choose any challenges that look interesting, and submit your solutions to Mr. Delfino. Everyone who participates meaningfully will receive some sort of small reward (think: cookies).
 
 </div>
+<div class="col-4">
+	<img src="assets/images/galaxy_brain_meme.jpg" alt="galaxy brain meme">
 </div>
 </div>
+</div>
+</section>
