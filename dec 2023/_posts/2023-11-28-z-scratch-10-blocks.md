@@ -4,7 +4,7 @@ title:  "Challenge 1: 10 Blocks"
 author: delfino
 image: assets/images/10_blocks.png
 description: "Learn to use Scratch blocks."
-featured: true
+featured: false
 hidden: false
 rating: 1
 ---
